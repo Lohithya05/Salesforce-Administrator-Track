@@ -9,7 +9,7 @@ OWD (Organization-Wide Defaults) is the baseline level of record access in Sales
 - Private
 - Public Read Only
 - Public Read/Write
-- Controlled by Parent
+- Controlled by Parent.
 
 ---
 
