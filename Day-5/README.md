@@ -191,5 +191,3 @@ Components:
 Different users perform different tasks. Students, Faculty, Placement Officers, and Administrators require different information and workflows. Customized interfaces improve efficiency, reduce confusion, and help users focus on relevant data.
 
 ---
-
-✅ Admin Application Design Thinking
