@@ -161,11 +161,3 @@ Avoids creating multiple profiles.
 8. Prevents data misuse.
 9. Limits insider threats.
 10. Supports role-based access control.
-
-
-
-✅ Field Level Security
-
-✅ Record-Level Security
-
-✅ Enterprise Access Control
