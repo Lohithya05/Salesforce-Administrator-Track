@@ -162,59 +162,7 @@ Avoids creating multiple profiles.
 9. Limits insider threats.
 10. Supports role-based access control.
 
----
 
-# Interview Questions
-
-### 1. What is OWD?
-OWD defines the default record access level in Salesforce.
-
-### 2. What is a Role Hierarchy?
-A structure that allows users higher in the hierarchy to access records owned by lower-level users.
-
-### 3. What is a Sharing Rule?
-A rule that grants additional record access to specific users or groups.
-
-### 4. Difference between Profile and Role?
-Profile controls actions; Role controls record visibility.
-
-### 5. Difference between Object Access and Record Access?
-Object Access controls actions on objects. Record Access controls visibility of specific records.
-
-### 6. What is Field Level Security?
-Field Level Security controls visibility and edit access for individual fields.
-
-### 7. Why are Sharing Rules needed?
-To provide additional access beyond OWD settings.
-
-### 8. How does Salesforce secure records?
-Using OWD, Role Hierarchy, Sharing Rules, Profiles, Permission Sets, and Field Level Security.
-
-### 9. Why not make all records public?
-Because it creates privacy and security risks.
-
-### 10. Explain the Salesforce Security Model.
-Profiles and Permission Sets determine what users can do. OWD, Roles, and Sharing Rules determine which records users can see.
-
-### 11. Difference between Profile and Permission Set?
-Profile provides baseline access, while Permission Set provides additional access.
-
-### 12. Why can a user have multiple Permission Sets but only one Profile?
-A Profile defines the base permissions, while Permission Sets extend permissions as needed.
-
----
-
-# Day 4 Outcome
-
-✅ Profiles
-
-✅ Permission Sets
-
-✅ Role Hierarchy
-
-✅ OWD
-
-✅ Sharing Rules
 
 ✅ Field Level Security
 
